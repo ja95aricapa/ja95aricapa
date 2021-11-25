@@ -6,7 +6,7 @@
 [![GoodCommerce](https://img.shields.io/badge/Goodcommerce-Jaime_Aricapa-purple)](https://blog.goodcommerce.io/author/jaime/)
 
 ## About Me:
-<p><em>Software developer in training at Holberton School and Market Researcher. 💻📈🔍</br>
+<p><em>Software developer 💻📈🔍</br>
 </em></p>
 
 ![](https://github.com/Jaricapa-holberton/Jaricapa-holberton/blob/main/carbon.png)
