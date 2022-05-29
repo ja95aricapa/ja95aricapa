@@ -15,17 +15,17 @@ https://carbon.now.sh/ -->
 
 <h2>💻 Some stats about me 💻</h2>
 
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaricapa-holberton)
+![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja95aricapa)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaricapa-holberton)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja95aricapa)
 
-![Code Inspector stats](https://code-inspector.com/public/badge/user/github/Jaricapa-holberton)
+![Code Inspector stats](https://code-inspector.com/public/badge/user/github/ja95aricapa)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 ---
 
-⭐️ From [@Jaricapa-holberton](https://github.com/Jaricapa-holberton)
+⭐️ From [@ja95aricapa](https://github.com/ja95aricapa)
 
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ --
