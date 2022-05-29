@@ -15,15 +15,13 @@ https://carbon.now.sh/ -->
 
 <h2>💻 Some stats about me 💻</h2>
 
-(https://github-readme-stats.vercel.app/api?username=ja95aricapa&count_private=true&include_all_commits=true)
+[![Jaime Aricapa's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=ja95aricapa)](https://github-readme-stats.vercel.app/api?username=ja95aricapa&count_private=true&include_all_commits=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ja95aricapa)
+[![Jaime Aricapa's Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ja95aricapa)](https://github-readme-stats.vercel.app/api/top-langs/?username=ja95aricapa)
 
 <a href="https://app.codiga.io/hub/user/github/ja95aricapa">
    <img src="https://api.codiga.io/public/badge/user/github/ja95aricapa?style=light" alt="codiga badge" />
 </a>
-
-(https://forthebadge.com/images/badges/built-with-love.svg)
 
 ---
 
